@@ -1,0 +1,6 @@
+cd nome da pasta
+git add .
+git commit -m "nome da pasta"
+git push
+
+
